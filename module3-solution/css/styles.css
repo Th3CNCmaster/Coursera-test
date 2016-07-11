@@ -2,12 +2,25 @@
 	text-align: center;
 }
 div.row > div {
-	border: 5px black solid;
 	margin-bottom: 15px;
 }
-div.container-fluid {
-	margin: 10px;
+div.google {
+	border: black solid 2px;
+	color: black;
+	background-color: rgba(255,220,170,0.6);
 }
-h2 {
-	text-align: center;
+p {
+	margin: 2px;
+}
+#google1 {
+	background-color: orange;
+}
+div#div1 {
+	background-color: yellow;
+}
+#bs-example-navbar-collapse-1 {
+	background-color: red;
+}
+#rafael {
+	background-color: cyan;
 }
