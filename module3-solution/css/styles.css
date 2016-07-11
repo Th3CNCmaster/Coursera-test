@@ -1,0 +1,13 @@
+.our-menu {
+	text-align: center;
+}
+div.row > div {
+	border: 5px black solid;
+	margin-bottom: 15px;
+}
+div.container-fluid {
+	margin: 10px;
+}
+h2 {
+	text-align: center;
+}
