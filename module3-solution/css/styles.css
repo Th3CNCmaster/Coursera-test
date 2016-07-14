@@ -1,6 +1,3 @@
-.our-menu {
-	text-align: center;
-}
 div.row > div {
 	margin-bottom: 15px;
 }
@@ -17,10 +14,26 @@ p {
 }
 div#div1 {
 	background-color: yellow;
-}
-#bs-example-navbar-collapse-1 {
+}#google2 {
 	background-color: red;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 #rafael {
 	background-color: cyan;
 }
+hr {
+	margin: 0;
+}
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
